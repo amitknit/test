@@ -2,5 +2,8 @@ Hello,
 
 this is my first file goint to add intto Git hub.
 adding this code as part of feature 1.
+feature -2 added.
 New brach feature 3 from develop.
+
+
 
