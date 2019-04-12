@@ -1,3 +1,6 @@
 Hello,
 
 this is my first file goint to add intto Git hub.
+
+
+New brach feature 3 from develop.
